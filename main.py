@@ -1,3 +1,4 @@
+
 from fastapi import FastAPI, Query, Path
 from typing import Annotated, Union, get_type_hints
 from models import ShoppingList
